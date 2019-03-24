@@ -1,0 +1,9 @@
+
+Analysis 
+
+
+1 - There is a relatively strong correlation bewteen latitude and temperature. 
+
+2 - The correlation between humidity and latitude is very weak.
+
+3 - There is almost no correlation between cloudiness and latitude.
